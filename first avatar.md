@@ -1,6 +1,10 @@
-##That was my first avatar for sure
+##That was my first avatar for sure, hilarious
 
-# I am pretty new to programming, this is actually part of my class, right now I am
+### I am pretty new to programming
+### This is actually part of my class
+### Right now I am
 
-*Studying
-*Flirting
+* Studying
+* Flirting
+
+Who are you??
