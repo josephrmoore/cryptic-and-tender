@@ -7,6 +7,6 @@
 * Studying
 * Flirting
 
-## I am not sure the answers to your questions.
+## I am not sure how to respond to your stimuli.
 
 ### Who are you??
